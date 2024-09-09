@@ -1,3 +1,5 @@
+## POC Java para testar diversos conceitos e tecnologias
+
 ```bash
 # Gerar jar executável
 ./mvnw clean compile assembly:single
